@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b250b67-efff-4992-9a02-3c1b70ab83d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WSijHU2VNFwaZKESiioyeeB2ru" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.Sum_of_Arrsy">
+    <configuration name="Cubes_of_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Firstproject_Dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cubes_of_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fact_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Firstproject_Dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fact_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sorting_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Firstproject_Dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting_Dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String_Vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Firstproject_Dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Vowels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sum_of_Arrsy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Firstproject_Dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum_of_Arrsy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sum_of_Arrsy" />
+        <item itemvalue="Python.Sorting_Dict" />
+        <item itemvalue="Python.Cubes_of_numbers" />
+        <item itemvalue="Python.String_Vowels" />
+        <item itemvalue="Python.Fact_num" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b250b67-efff-4992-9a02-3c1b70ab83d6" name="Default Changelist" comment="" />
+      <created>1579149529765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579149529765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="0" key="#Length_of_string" timestamp="1579849180557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="0" key="#Length_of_string/0.0.1536.824@0.0.1536.824" timestamp="1579849180557" />
+    <state x="260" y="0" key="#Notifications" timestamp="1580102048053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="260" y="0" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1580102048053" />
+    <state x="430" y="0" key="#Practice1" timestamp="1579849155984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="0" key="#Practice1/0.0.1536.824@0.0.1536.824" timestamp="1579849155984" />
+    <state x="430" y="0" key="#Practise2" timestamp="1579672355005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="0" key="#Practise2/0.0.1536.824@0.0.1536.824" timestamp="1579672355005" />
+    <state width="1507" height="142" key="GridCell.Tab.0.bottom" timestamp="1581739333926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="142" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581739333926" />
+    <state width="1507" height="142" key="GridCell.Tab.0.center" timestamp="1581739333926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="142" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581739333926" />
+    <state width="1507" height="142" key="GridCell.Tab.0.left" timestamp="1581739333926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="142" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581739333926" />
+    <state width="1507" height="142" key="GridCell.Tab.0.right" timestamp="1581739333926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="142" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581739333926" />
+    <state width="1507" height="246" key="GridCell.Tab.1.bottom" timestamp="1580278907170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="246" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580278907170" />
+    <state width="1507" height="246" key="GridCell.Tab.1.center" timestamp="1580278907170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="246" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580278907170" />
+    <state width="1507" height="246" key="GridCell.Tab.1.left" timestamp="1580278907170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="246" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580278907170" />
+    <state width="1507" height="246" key="GridCell.Tab.1.right" timestamp="1580278907170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="246" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580278907170" />
+    <state x="263" y="0" key="SettingsEditor" timestamp="1580102292321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="263" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580102292321" />
+    <state x="381" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1582178948854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="381" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582178948854" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1579758113837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579758113837" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FirstProgram.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FirstProgram.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
